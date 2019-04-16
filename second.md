@@ -1,6 +1,11 @@
+[[Home](/)]
+[[Second page](second.md)]
+
 # here
 ## is
 ### the
 #### second
 ##### page
-[[Go back](/)]
+
+[[Home](/)]
+[[Second page](second.md)]
